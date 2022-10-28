@@ -8,3 +8,4 @@ Analysed Nifty and broader markets with powerbi
 - Page navigation
 - Conditional formatting for charts and other functionalities 
 - Basic power query for daily movements of nifty index(subtract and percentage of)
+- (updated file is uploaded with basic power query function)
